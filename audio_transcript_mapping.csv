@@ -1,0 +1,11 @@
+chunk_index,audio_chunk_path,speaker,text,start_time,end_time
+1,audio_chunks/chunk_001.wav,SPEAKER_01,"So, Aaron, in your email you said you wanted to talk about the exam.",0.318,4.182
+2,audio_chunks/chunk_002.wav,SPEAKER_00,"Yeah, um, I've just never taken a class with so many different readings.",4.891,9.903
+3,audio_chunks/chunk_003.wav,SPEAKER_00,you,9.97,10.037
+4,audio_chunks/chunk_004.wav,SPEAKER_00,I've managed to keep up with all the assignments.,10.105,12.535
+5,audio_chunks/chunk_005.wav,SPEAKER_00,But I'm not sure how to...,12.974,14.29
+6,audio_chunks/chunk_006.wav,SPEAKER_00,How do you?,14.965,15.572
+7,audio_chunks/chunk_007.wav,SPEAKER_01,how to review everything.,16.214,18.07
+8,audio_chunks/chunk_008.wav,SPEAKER_00,Yeah!,18.425,19.033
+9,audio_chunks/chunk_009.wav,SPEAKER_00,and other classes I've had.,19.353,20.838
+10,audio_chunks/chunk_010.wav,SPEAKER_00,"There's usually just one book to review, not three different books, plus all those other text excerpts and videos.",21.074,27.402
